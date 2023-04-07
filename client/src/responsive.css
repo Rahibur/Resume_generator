@@ -1,0 +1,22 @@
+@media screen and (min-device-width: 800px)
+and (max-device-width: 1124px) {
+    .home-page{
+        width: 112%;
+        text-align: center;
+        background-image: linear-gradient(to right top, #f7f0f8, #e1d4f2, #bebbf0, #89a7ef, #1297eb);
+        padding-bottom: 8%;
+        
+    }
+    .home-page img {
+      margin-top: 122px;
+      margin-bottom: -103px;
+    }
+
+  }
+   
+  @media screen and (min-device-width: 800px)
+and (max-device-width: 1123px){
+.navbar{
+    width: 1254px;
+}
+}
